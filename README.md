@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an undergraduate student at Brown University interested in improving usability of computer systems. Currently, I work with Prof. Deepti Raghavan, Prof. Akshay Narayan, and Prof. Will Crichton on improving reactivity in computational notebooks. I was also advised by Prof. Nikos Vasilakis on introducing automated aggregators to shell script parallelization systems. Beside research, I enjoy teaching and course dev for software engineering, computer networks, and Chinese.
+
+In my free time, I like to read (+ write about what
+I read), learn Japanese, visit cafes, go to the gym with my friends, and maintain my 200+ day streak on Leetcode.
+
+Thank you for reading about me :D! I would love to meet you too => [megan_zheng@brown.edu].
